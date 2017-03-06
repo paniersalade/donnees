@@ -7,3 +7,9 @@ Le *Panier à salade* est sélection hebdomadaire de liens de l'actualité polic
 Depuis plusieurs années, l'incendie de voitures est devenu une tradition de la Saint-Sylvestre pour certains. Pour la nouvelle année 2013, Manuel Valls, nouveau ministre de l'intérieur avait repris la communication du chiffre de voitures brûlées après un silence souhaité par Brice Hortefeux puis Claude Guéant, pour *«mettre fin au concours, au palmarès, et ne plus communiquer sur le nombre de véhicules brûlés»*.
 
 > [Voitures brûlées, mises à feu directes et personnes interpellées à partir de 2003](./saint-sylvestre.csv)
+
+## [Les suicides de détenus](./suicides-detenus.csv)
+
+Une dizaine de détenus, au moins, se sont donnés la mort entre janvier et mars 2017.
+
+> [Suicides de détenus en France à partir du 15 décembre 2016](./suicides-detenus.csv)
