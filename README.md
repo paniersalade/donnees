@@ -10,6 +10,12 @@ Depuis plusieurs années, l'incendie de voitures est devenu une tradition de la 
 
 ## [Les suicides de détenus](./suicides-detenus.csv)
 
-Une dizaine de détenus, au moins, se sont donnés la mort entre janvier et mars 2017.
+Une trentaine de détenus, au moins, se sont donnés la mort depuis le début de l'année 2017.
 
 > [Suicides de détenus en France à partir du 15 décembre 2016](./suicides-detenus.csv)
+
+## [Les suicides de policiers et gendarmes](./suicides-policiers.csv)
+
+Une vingtaine de policiers et gendarmes se sont suicidés selon les articles relevés depuis le début de l'année 2017.
+
+> [Suicides de policiers et gendarmes relevés en France à partir du 13 avril 2016](./suicides-policiers.csv)
