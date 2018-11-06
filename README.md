@@ -6,9 +6,13 @@ Le *Panier à salade* est sélection hebdomadaire de liens de l'actualité polic
 
 394 communes ont demandé une autorisation pour que leur police municipale puisse expérimenter les caméras-piétons. Ce fichier est la liste de ces communes, améliorée avec les subventions du FIPD, l'étiquette du maire, le nombre d'utilisation des caméras ainsi que leur marque quand connu.
 
+> [Villes autorisées à expérimenter les caméras-piétons jusqu'à juin 2018](./cameras-pietons-police-municipale.csv)
+
 ## [Les centres éducatifs fermés](./cef.csv)
 
 En octobre 2018, le gouvernement a annoncé la création d'une vingtaine de centres éducatifs fermés (CEF). 51 CEF existent déjà en France : 34 sont gérés par le secteur associatif, 17 par le secteur public.
+
+> [Centres éducatifs fermés existant et en projet](./cef.csv)
 
 ## [Les 15 000 places de prison](./plan-immobilier-penitentiaire-15000.csv)
 
@@ -24,14 +28,14 @@ Depuis plusieurs années, l'incendie de voitures est devenu une tradition de la 
 
 > [Voitures brûlées, mises à feu directes et personnes interpellées à partir de 2003](./saint-sylvestre.csv)
 
-## [Les suicides de détenus](./suicides-detenus.csv) (n'a pas été mis à jour depuis longtemps)
+## [Les suicides de détenus](./suicides-detenus.csv)
 
 Une trentaine de détenus, au moins, se sont donnés la mort depuis le début de l'année 2017.
 
 > [Suicides de détenus en France à partir du 15 décembre 2016](./suicides-detenus.csv) (n'a pas été mis à jour depuis longtemps)
 
-## [Les suicides de policiers et gendarmes](./suicides-policiers.csv) (n'a pas été mis à jour depuis longtemps)
+## [Les suicides de policiers et gendarmes](./suicides-policiers.csv)
 
 Une vingtaine de policiers et gendarmes se sont suicidés selon les articles relevés depuis le début de l'année 2017.
 
-> [Suicides de policiers et gendarmes relevés en France à partir du 13 avril 2016](./suicides-policiers.csv)
+> [Suicides de policiers et gendarmes relevés en France à partir du 13 avril 2016](./suicides-policiers.csv) (n'a pas été mis à jour depuis longtemps)
