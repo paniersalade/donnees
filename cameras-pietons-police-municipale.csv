@@ -1,5 +1,5 @@
 Nom de la commune,Longitude,Latitude,Département,Numéro de département,Région,Code commune,Code INSEE,Code EPCI,Nom du maire,Nuance Maire,Population (2015),Nombre de policiers municipaux (2015),Caméras mobiles,Subventions FIPD,Nombre d'activations,Fournisseur,Montant du marché,Date de l'autorisation préfectorale,"Date de fin de l'autorisation
-préfectorale",Lien autorisation préféctorale
+préfectorale",Lien autorisation préfectorale
 ,,,Somme,80,Nord-Pas-de-Calais-Picardie,,,,,,,,1,,,,,27/04/2017,03/06/2018,
 Marseille,"5,3699525","43,2961743",Bouches-du-Rhône,13,Provence-Alpes-Côte d'Azur,055,13055,NA,Jean-Claude GAUDIN,UMP,861635,426,100,"20 000,00 €",86,Sentinel,"90 000,00 €",22/02/2017,22/07/2018,
 Nice,"7,2683912","43,7009358",Alpes-Maritimes,06,Provence-Alpes-Côte d'Azur,088,06088,NA,Christian ESTROSI,UMP,342522,386,300,"10 000,00 €",*plusieurs centaines d’activations*,,*caméras prêtées*,24/03/2017,03/06/2018,http://www.alpes-maritimes.gouv.fr/content/download/19790/180113/file/Recueil%20special%2054.2017.pdf
@@ -64,7 +64,7 @@ Bron,"4,9092352","45,7337532",Rhône,69,Auvergne-Rhône-Alpes,029,69029,NA,Jean-
 Draguignan,"6,4627333","43,5374662",Var,83,Provence-Alpes-Côte d'Azur,050,83050,NA,Richard STRAMBIO,DVD,40278,24,6,"1 095,00 €",,,,29/03/2017,03/06/2018,
 Compiègne,"2,8263171","49,4179497",Oise,60,Nord-Pas-de-Calais-Picardie,159,60159,NA,Philippe MARINI,UMP,40200,27,2,,*une a deux fois par semaine*,,,12/10/2017,03/06/2018,
 Saint-Germain-en-Laye,"2,0942792","48,8990413",Yvelines,78,Ile-de-France,551,78551,NA,Emmanuel LAMY,UMP,39980,21,7,,,,,18/10/2017,18/05/2018,http://www.yvelines.gouv.fr/content/download/13945/89055/file/RAA%20N%20°%20125%20du%2018%20octobre%202017.pdf
-Melun,"2,6608169","48,539927",Seine-et-Marne,77,Ile-de-France,288,77288,NA,Louis VOGEL,UMP,39914,32,8,,,,,23/07/2017,03/06/2018,
+Melun,"2,6608169","48,539927",Seine-et-Marne,77,Ile-de-France,288,77288,NA,Louis VOGEL,UMP,39914,32,8,,59,,,23/07/2017,03/06/2018,
 Alès,"4,0852818","44,1253665",Gard,30,Languedoc-Roussillon-Midi-Pyrénées,007,30007,NA,Max ROUSTAN,UMP,39535,43,8,,,,,27/06/2017,03/06/2018,
 Marcq-en-Baroeul,"3,1043032","50,6767018",Nord,59,Nord-Pas-de-Calais-Picardie,378,59378,NA,Bernard GERARD,UMP,39298,18,3,,,,,21/04/2017,03/06/2018,
 Chartres,"1,4866387","48,4470039",Eure-et-Loir,28,Centre-Val de Loire,085,28085,NA,Jean-Pierre GORGES,UMP,38875,24,6,,,,,07/12/2017,03/06/2018,http://eure-et-loir.gouv.fr/content/download/23542/157709/file/Arrêté%20chartres.pdf
