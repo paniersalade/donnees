@@ -2,6 +2,13 @@
 
 Le *Panier à salade* est sélection hebdomadaire de liens de l'actualité police-justice paraissant le mardi. Retrouvez dans ce dépôt différents jeux de données relatifs à cette actualité.
 
+## [Population détenue](./population-detenue.csv) et [évolution de la densité](./densite-carcerale.csv)
+
+Nous avons essayer d'agréger les données disponibles [sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/) et [sur le site du ministère de la Justice](http://www.justice.gouv.fr/prison-et-reinsertion-10036/les-chiffres-clefs-10041/) pour obtenir une évolution dans le temps de la population détenue par établissement et quartier, ainsi qu'une évolution de la capacité opérationnelle. Les coordonnées géographiques ont été récupérées [sur le site de l'Observatoire international des prisons](http://oip.org/sinformer/etablissements/).
+
+> [Population détenue](./population-detenue.csv)
+> [Capacité opérationnelle et nombre de personnes détenues](./densite-carcerale.csv)
+
 ## [Les villes ayant expérimenté les caméras-piétons](./cameras-pietons-police-municipale.csv)
 
 394 communes ont demandé une autorisation pour que leur police municipale puisse expérimenter les caméras-piétons. Ce fichier est la liste de ces communes, améliorée avec les subventions du FIPD, l'étiquette du maire, le nombre d'utilisation des caméras ainsi que leur marque quand connu.
