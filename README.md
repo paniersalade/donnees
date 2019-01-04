@@ -7,6 +7,7 @@ Le *Panier à salade* est sélection hebdomadaire de liens de l'actualité polic
 Nous avons essayer d'agréger les données disponibles [sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/statistique-mensuelle-de-la-population-ecrouee-et-detenue-en-france/) et [sur le site du ministère de la Justice](http://www.justice.gouv.fr/prison-et-reinsertion-10036/les-chiffres-clefs-10041/) pour obtenir une évolution dans le temps de la population détenue par établissement et quartier, ainsi qu'une évolution de la capacité opérationnelle. Les coordonnées géographiques ont été récupérées [sur le site de l'Observatoire international des prisons](http://oip.org/sinformer/etablissements/).
 
 > [Population détenue](./population-detenue.csv)
+
 > [Capacité opérationnelle et nombre de personnes détenues](./densite-carcerale.csv)
 
 ## [Les villes ayant expérimenté les caméras-piétons](./cameras-pietons-police-municipale.csv)
@@ -25,9 +26,15 @@ En octobre 2018, le gouvernement a annoncé la création d'une vingtaine de cent
 
 Le gouvernement a annoncé 15 000 nouvelles places de prison pour le quiquennat qui vient. Parmi celles-ci, au moins 10 000 ne sont que des confirmations de projets déjà annoncés ou lancés, voire inaugurés. Ce fichier recense les premières annonces pour les différents projets confirmés par Nicole Belloubet en octobre 2018.
 
+> [15 000 places de prison](./plan-immobilier-penitentiaire-15000.csv)
+
 ## [Le nombre d'avocat·e·s](./avocats-01012018.csv)
 
 Version exploitable d'une partie [des statistiques sur la profession d'avocat au 1<sup>er</sup> janvier 2018](http://www.justice.gouv.fr/justice-civile-11861/statistiques-11870/statistiques-2018-sur-la-profession-davocat-31786.html) : [nombre d'avocat·e·s](./avocats-01012018.csv) et [répartition par département](./avocats-par-dpt.csv). Les populations par départements sont les populations officielles au 1<sup>er</sup> janvier 2018, sauf pour la Nouvelle-Calédonie et la Polynésie française. Elles ne sont pas recopiées dans le document inexploitable du ministère de la justice.
+
+> [Nombre d'avocat·e·s](./avocats-01012018.csv)
+
+> [Répartition des avocat·e·s par département](./avocats-par-dpt.csv)
 
 ## [Les événements de la Saint-Sylvestre](./saint-sylvestre.csv)
 
