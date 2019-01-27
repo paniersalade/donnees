@@ -1,4 +1,265 @@
 Slug,Longitude,Latitude,Direction interrégionale,Date,Quartier ou étab.,Type d'établissement,Établissement,Capacité norme,Capacité opérationelle,Détenus,Densité
+maison-darret-dagen,0.6172835826873779,44.19890897935539,Bordeaux,01/01/2019,MA Agen,MA,Agen,146,145,171,117.9
+maison-darret-dangouleme,0.16695544123649597,45.65038305920979,Bordeaux,01/01/2019,MA Angoulême,MA,Angoulême,236,236,196,83.1
+maison-darret-de-bayonne,-1.463276445865631,43.49174955928618,Bordeaux,01/01/2019,MA Bayonne,MA,Bayonne,75,75,104,138.7
+maison-darret-de-gueret,1.8720826506614685,46.170148211264994,Bordeaux,01/01/2019,MA Guéret,MA,Guéret,32,32,35,109.4
+maison-darret-de-limoges,1.2515830993652344,45.83152290602478,Bordeaux,01/01/2019,MA Limoges,MA,Limoges,83,83,142,171.1
+maison-darret-de-niort,-0.46665072441101074,46.32397527598893,Bordeaux,01/01/2019,MA Niort,MA,Niort,66,66,106,160.6
+maison-darret-de-pau,-0.372886061668396,43.303323875617146,Bordeaux,01/01/2019,MA Pau,MA,Pau,255,250,179,71.6
+maison-darret-de-perigueux,0.7191592454910278,45.18906996373229,Bordeaux,01/01/2019,MA Périgueux,MA,Périgueux,101,79,94,119.0
+maison-darret-de-rochefort,-0.9615263342857361,45.941710810000274,Bordeaux,01/01/2019,MA Rochefort,MA,Rochefort,52,52,80,153.8
+maison-darret-de-saintes,-0.6267338000000109,45.7456807,Bordeaux,01/01/2019,MA Saintes,MA,Saintes,85,85,112,131.8
+maison-darret-de-tulle,1.7696256190538406,45.27490586244309,Bordeaux,01/01/2019,MA Tulle,MA,Tulle,47,47,69,146.8
+centre-penitentiaire-de-bordeaux-gradignan,-0.597024942189023,44.78199252234051,Bordeaux,01/01/2019,qMA Bordeaux Gradignan,qMA,Bordeaux Gradignan,354,350,636,181.7
+centre-penitentiaire-de-mont-de-marsan,-0.44995610245518947,43.895287258577554,Bordeaux,01/01/2019,qMA Mont-de-Marsan,qMA,Mont-de-Marsan,333,333,295,88.6
+centre-penitentiaire-de-poitiers-vivonne,0.24149537086486816,46.41336491168056,Bordeaux,01/01/2019,qMA Poitiers-Vivonne,qMA,Poitiers-Vivonne,305,305,403,132.1
+etablissement-penitentiaire-de-bedenac,-0.30080169439315796,45.1660384531481,Bordeaux,01/01/2019,CD Bédenac,CD,Bédenac,194,194,167,86.1
+centre-de-detention-deysses,0.7202059999999619,44.41733,Bordeaux,01/01/2019,CD Eysses,CD,Eysses,290,290,266,91.7
+centre-de-detention-de-mauzac,0.7906240224838257,44.850503516027736,Bordeaux,01/01/2019,CD Mauzac,CD,Mauzac,369,369,303,82.1
+centre-de-detention-de-neuvic,0.4491090774536133,45.07823311466867,Bordeaux,01/01/2019,CD Neuvic,CD,Neuvic,397,397,358,90.2
+centre-de-detention-duzerche,1.5931463241577148,45.437851457477045,Bordeaux,01/01/2019,CD Uzerche,CD,Uzerche,594,590,541,91.7
+centre-penitentiaire-de-mont-de-marsan,-0.44995610245518947,43.895287258577554,Bordeaux,01/01/2019,qCD Mont-de-Marsan,qCD,Mont-de-Marsan,368,368,316,85.9
+centre-penitentiaire-de-poitiers-vivonne,0.24149537086486816,46.41336491168056,Bordeaux,01/01/2019,qCD Poitiers-Vivonne,qCD,Poitiers-Vivonne,271,271,241,88.9
+etablissement-penitentiaire-de-saint-martin-de-re,-1.3688090443611145,46.199707956796004,Bordeaux,01/01/2019,MC Saint-Martin-de-Ré,MC,Saint-Martin-de-Ré,478,460,331,72.0
+centre-penitentiaire-de-bordeaux-gradignan,-0.597024942189023,44.78199252234051,Bordeaux,01/01/2019,qCPA Bordeaux Gradignan,qCPA,Bordeaux Gradignan,82,82,44,53.7
+centre-penitentiaire-de-poitiers-vivonne,0.24149537086486816,46.41336491168056,Bordeaux,01/01/2019,qCPA Poitiers-Vivonne,qCPA,Poitiers-Vivonne,27,27,10,37.0
+centre-penitentiaire-de-mont-de-marsan,-0.44995610245518947,43.895287258577554,Bordeaux,01/01/2019,qCSL Mont-de-Marsan,qCSL,Mont-de-Marsan,19,19,9,47.4
+centre-penitentiaire-de-poitiers-vivonne,0.24149537086486816,46.41336491168056,Bordeaux,01/01/2019,qCSL Poitiers-Vivonne,qCSL,Poitiers-Vivonne,30,30,11,36.7
+maison-darret-dauxerre,3.5661576999999625,47.8032066,Dijon,01/01/2019,MA Auxerre,MA,Auxerre,101,100,180,180.0
+maison-darret-de-belfort,6.863250611639387,47.63769949765261,Dijon,01/01/2019,MA Belfort,MA,Belfort,39,39,44,112.8
+maison-darret-de-besancon,6.005946526983621,47.236264076814,Dijon,01/01/2019,MA Besançon,MA,Besançon,275,275,379,137.8
+maison-darret-de-blois,1.3385111232787494,47.59686125556143,Dijon,01/01/2019,MA Blois,MA,Blois,114,114,142,124.6
+maison-darret-de-bourges,2.399182437789932,47.09523445419573,Dijon,01/01/2019,MA Bourges,MA,Bourges,116,116,162,139.7
+maison-darret-de-dijon,5.050232336909517,47.312571337055516,Dijon,01/01/2019,MA Dijon,MA,Dijon,186,186,268,144.1
+maison-darret-de-lons-le-saunier,5.556817561376988,46.674124401948546,Dijon,01/01/2019,MA Lons-le-Saunier,MA,Lons-le-Saunier,39,39,69,176.9
+maison-darret-de-montbeliard,6.796471819712792,47.51413055536428,Dijon,01/01/2019,MA Montbéliard,MA,Montbéliard,41,41,67,163.4
+maison-darret-de-nevers,3.156229515205382,46.99253852645166,Dijon,01/01/2019,MA Nevers,MA,Nevers,118,118,116,98.3
+maison-darret-de-tours,0.6916654000000335,47.37738960000001,Dijon,01/01/2019,MA Tours,MA,Tours,145,145,233,160.7
+maison-darret-de-vesoul,6.155460644180266,47.624569751378885,Dijon,01/01/2019,MA Vesoul,MA,Vesoul,50,50,75,150.0
+centre-penitentiaire-de-chateauroux,1.7224684999999909,46.79359720000001,Dijon,01/01/2019,qMA Châteauroux,qMA,Châteauroux,105,105,128,121.9
+centre-penitentiaire-dorleans-saran,1.8713840873108438,47.963904229474004,Dijon,01/01/2019,qMA Orléans-Saran,qMA,Orléans-Saran,531,531,581,109.4
+centre-penitentiaire-de-varennes-le-grand,4.843657138548224,46.684475130129165,Dijon,01/01/2019,qMA Varennes-le-Grand,qMA,Varennes-le-Grand,193,193,291,150.8
+centre-de-detention-de-chateaudun,1.3588327999999592,48.0699416,Dijon,01/01/2019,CD Châteaudun,CD,Châteaudun,597,597,542,90.8
+centre-de-detention-de-joux-la-ville,3.8114660824951443,47.61854400035287,Dijon,01/01/2019,CD Joux-la-Ville,CD,Joux-la-Ville,601,601,552,91.8
+centre-penitentiaire-de-chateauroux,1.7224684999999909,46.79359720000001,Dijon,01/01/2019,qCD Châteauroux,qCD,Châteauroux,270,253,238,94.1
+centre-penitentiaire-dorleans-saran,1.8713840873108438,47.963904229474004,Dijon,01/01/2019,qCD Orléans-Saran,qCD,Orléans-Saran,217,217,88,40.6
+centre-penitentiaire-de-varennes-le-grand,4.843657138548224,46.684475130129165,Dijon,01/01/2019,qCD Varennes-le-Grand,qCD,Varennes-le-Grand,191,191,171,89.5
+maison-centrale-de-saint-maur,1.6348938677367642,46.7949328035674,Dijon,01/01/2019,MC Saint Maur,MC,Saint Maur,337,260,183,70.4
+centre-de-semi-liberte-de-besancon,6.022439406745889,47.250820023043474,Dijon,01/01/2019,CSL Besançon,CSL,Besançon,23,23,13,56.5
+centre-de-semi-liberte-de-montargis,2.7308061239252766,47.99907732609956,Dijon,01/01/2019,CSL Montargis,CSL,Montargis,20,20,14,70.0
+centre-penitentiaire-dorleans-saran,1.8713840873108438,47.963904229474004,Dijon,01/01/2019,qCSL Orléans-Saran,qCSL,Orléans-Saran,60,60,17,28.3
+maison-darret-damiens,2.3237781999999925,49.9089137,Lille,01/01/2019,MA Amiens,MA,Amiens,307,270,409,151.5
+maison-darret-darras,2.7601789999999937,50.2929215,Lille,01/01/2019,MA Arras,MA,Arras,209,209,187,89.5
+maison-darret-de-bethune,2.63678189999996,50.5364456,Lille,01/01/2019,MA Béthune,MA,Béthune,180,180,383,212.8
+maison-darret-de-douai,3.0590363460327126,50.375858078688935,Lille,01/01/2019,MA Douai,MA,Douai,384,368,556,151.1
+maison-darret-de-dunkerque,2.3810753000000204,51.0398725,Lille,01/01/2019,MA Dunkerque,MA,Dunkerque,123,123,127,103.3
+maison-darret-de-valenciennes,3.4980089693115133,50.35577831253786,Lille,01/01/2019,MA Valenciennes,MA,Valenciennes,212,212,321,151.4
+centre-penitentiaire-de-beauvais,2.0825377301025583,49.40793617704556,Lille,01/01/2019,qMA Beauvais,qMA,Beauvais,586,586,617,105.3
+centre-penitentiaire-de-laon,3.638233085350066,49.58117022620999,Lille,01/01/2019,qMA Laon,qMA,Laon,189,189,269,142.3
+centre-penitentiaire-de-liancourt,2.4749332666397095,49.33330625416136,Lille,01/01/2019,qMA Liancourt,qMA,Liancourt,20,20,16,80.0
+centre-penitentiaire-de-lille-annoeullin,2.93941140000004,50.512103,Lille,01/01/2019,qMA Lille-Annoeullin,qMA,Lille-Annoeullin,477,477,589,123.5
+centre-penitentiaire-de-longuenesse,2.246021658904965,50.72652751806669,Lille,01/01/2019,qMA Longuenesse,qMA,Longuenesse,193,193,334,173.1
+centre-penitentiaire-de-maubeuge,4.002210278820826,50.28722986420789,Lille,01/01/2019,qMA Maubeuge,qMA,Maubeuge,201,201,257,127.9
+centre-penitentiaire-de-vendin-le-vieil,2.816527532263194,50.45606434528601,Lille,01/01/2019,qMA Vendin Le Vieil,qMA,Vendin Le Vieil,32,32,5,15.6
+centre-penitentiaire-de-lille-loos-sequedin,2.965369669836491,50.620248766560444,Lille,01/01/2019,qMA Lille-Loos-Séquedin (Lille-Séquedin),qMA,Lille-Loos-Séquedin (Lille-Séquedin),584,584,861,147.4
+centre-de-detention-de-bapaume,2.863816006607067,50.10323119124534,Lille,01/01/2019,CD Bapaume,CD,Bapaume,599,599,549,91.7
+centre-penitentiaire-de-chateau-thierry,3.3974789939178436,49.05029431984186,Lille,01/01/2019,qCD Château-Thierry,qCD,Château-Thierry,29,29,7,24.1
+centre-penitentiaire-de-laon,3.638233085350066,49.58117022620999,Lille,01/01/2019,qCD Laon,qCD,Laon,199,199,168,84.4
+centre-penitentiaire-de-liancourt,2.4749332666397095,49.33330625416136,Lille,01/01/2019,qCD Liancourt,qCD,Liancourt,594,594,489,82.3
+centre-penitentiaire-de-lille-annoeullin,2.93941140000004,50.512103,Lille,01/01/2019,qCD Lille-Annoeullin,qCD,Lille-Annoeullin,209,209,193,92.3
+centre-penitentiaire-de-longuenesse,2.246021658904965,50.72652751806669,Lille,01/01/2019,qCD Longuenesse,qCD,Longuenesse,399,399,380,95.2
+centre-penitentiaire-de-maubeuge,4.002210278820826,50.28722986420789,Lille,01/01/2019,qCD Maubeuge,qCD,Maubeuge,199,199,166,83.4
+centre-penitentiaire-de-vendin-le-vieil,2.816527532263194,50.45606434528601,Lille,01/01/2019,qCD Vendin Le Vieil,qCD,Vendin Le Vieil,33,33,-,
+centre-penitentiaire-de-chateau-thierry,3.3974789939178436,49.05029431984186,Lille,01/01/2019,qMC Château-Thierry,qMC,Château-Thierry,101,101,75,74.3
+centre-penitentiaire-de-vendin-le-vieil,2.816527532263194,50.45606434528601,Lille,01/01/2019,qMC Vendin Le Vieil,qMC,Vendin Le Vieil,171,171,90,52.6
+centre-penitentiaire-de-longuenesse,2.246021658904965,50.72652751806669,Lille,01/01/2019,qCPA Longuenesse,qCPA,Longuenesse,96,96,24,25.0
+centre-penitentiaire-de-beauvais,2.0825377301025583,49.40793617704556,Lille,01/01/2019,qCSL Beauvais,qCSL,Beauvais,30,30,23,76.7
+centre-penitentiaire-de-lille-loos-sequedin,2.965369669836491,50.620248766560444,Lille,01/01/2019,qCSL Lille-Loos-Séquedin (Haubourdin),qCSL,Lille-Loos-Séquedin (Haubourdin),60,60,22,36.7
+centre-penitentiaire-de-longuenesse,2.246021658904965,50.72652751806669,Lille,01/01/2019,qCSL Longuenesse,qCSL,Longuenesse,50,50,10,20.0
+etablissement-penitentiaire-pour-mineurs-de-quievrechain,3.659770799999933,50.4008319,Lille,01/01/2019,EPM Quiévrechain,EPM,Quiévrechain,60,59,33,55.9
+centre-penitentiaire-de-lille-loos-sequedin,2.965369669836491,50.620248766560444,Lille,01/01/2019,qCNE Lille-Loos-Séquedin,qCNE,Lille-Loos-Séquedin,33,30,2,6.7
+maison-darret-daurillac,2.442001774907112,44.928836675846064,Lyon,01/01/2019,MA Aurillac,MA,Aurillac,72,72,44,61.1
+maison-darret-de-bonneville,6.401252746582031,46.08036056415229,Lyon,01/01/2019,MA Bonneville,MA,Bonneville,187,171,258,150.9
+maison-darret-de-chambery,5.905848741531372,45.57517214713842,Lyon,01/01/2019,MA Chambéry,MA,Chambéry,93,93,123,132.3
+maison-darret-du-puy-en-velay,3.8865951000000223,45.036351,Lyon,01/01/2019,MA Le-Puy-en-Velay,MA,Le-Puy-en-Velay,35,35,56,160.0
+maison-darret-de-lyon-corbas,4.9318528175354,45.67936521140149,Lyon,01/01/2019,MA Lyon Corbas,MA,Lyon Corbas,688,688,948,137.8
+maison-darret-de-montlucon,2.604469399999971,46.3403268,Lyon,01/01/2019,MA Montluçon,MA,Montluçon,22,22,34,154.5
+maison-darret-de-privas,4.594731330871582,44.73574431005867,Lyon,01/01/2019,MA Privas,MA,Privas,57,57,72,126.3
+centre-penitentiaire-daiton,6.30615899999998,45.54192099999999,Lyon,01/01/2019,qMA Aiton,qMA,Aiton,219,219,315,143.8
+centre-penitentiaire-de-bourg-en-bresse,5.245499610900879,46.19620063991466,Lyon,01/01/2019,qMA Bourg-en-Bresse,qMA,Bourg-en-Bresse,388,388,412,106.2
+maison-darret-de-grenoble-varces,5.689085900000009,45.1014436,Lyon,01/01/2019,qMA Grenoble,qMA,Grenoble,232,232,322,138.8
+centre-penitentiaire-de-moulins-yzeure,3.3513236045837402,46.538480527733405,Lyon,01/01/2019,qMA Moulins Yzeure,qMA,Moulins Yzeure,136,136,147,108.1
+centre-penitentiaire-de-riom,3.1518852710723877,45.88891786700034,Lyon,01/01/2019,qMA Riom,qMA,Riom,384,384,371,96.6
+maison-darret-de-saint-etienne-la-talaudiere,4.4158172607421875,45.4733735463996,Lyon,01/01/2019,qMA Saint Etienne-la-Talaudière,qMA,Saint Etienne-la-Talaudière,287,287,382,133.1
+centre-penitentiaire-de-saint-quentin-fallavier,5.126323699951172,45.6588675363732,Lyon,01/01/2019,qMA Saint-Quentin-Fallavier,qMA,Saint-Quentin-Fallavier,237,237,301,127.0
+centre-penitentiaire-de-valence,4.929245710372925,44.91166163397575,Lyon,01/01/2019,qMA Valence,qMA,Valence,344,344,377,109.6
+maison-darret-de-villefranche-sur-saone,4.725408554077148,45.997617503399375,Lyon,01/01/2019,qMA Villefranche-sur-Saône,qMA,Villefranche-sur-Saône,599,599,691,115.4
+centre-de-detention-de-roanne,4.100797176361084,46.05389030918945,Lyon,01/01/2019,CD Roanne,CD,Roanne,599,599,537,89.6
+centre-penitentiaire-daiton,6.30615899999998,45.54192099999999,Lyon,01/01/2019,qCD Aiton,qCD,Aiton,200,200,187,93.5
+centre-penitentiaire-de-bourg-en-bresse,5.245499610900879,46.19620063991466,Lyon,01/01/2019,qCD Bourg-en-Bresse,qCD,Bourg-en-Bresse,300,300,292,97.3
+centre-penitentiaire-de-riom,3.1518852710723877,45.88891786700034,Lyon,01/01/2019,qCD Riom,qCD,Riom,164,164,155,94.5
+centre-penitentiaire-de-saint-quentin-fallavier,5.126323699951172,45.6588675363732,Lyon,01/01/2019,qCD Saint-Quentin-Fallavier,qCD,Saint-Quentin-Fallavier,192,192,182,94.8
+centre-penitentiaire-de-moulins-yzeure,3.3513236045837402,46.538480527733405,Lyon,01/01/2019,qMC Moulins Yzeure,qMC,Moulins Yzeure,123,123,114,92.7
+centre-penitentiaire-de-valence,4.929245710372925,44.91166163397575,Lyon,01/01/2019,qMC Valence,qMC,Valence,128,63,50,79.4
+centre-de-semi-liberte-de-lyon,4.843661785125732,45.74180531201612,Lyon,01/01/2019,CSL Lyon,CSL,Lyon,116,116,67,57.8
+centre-penitentiaire-de-bourg-en-bresse,5.245499610900879,46.19620063991466,Lyon,01/01/2019,qCSL Bourg-en-Bresse,qCSL,Bourg-en-Bresse,40,40,16,40.0
+centre-de-semi-liberte-de-grenoble,5.711919665336609,45.18445671880465,Lyon,01/01/2019,qCSL Grenoble,qCSL,Grenoble,36,36,26,72.2
+centre-penitentiaire-de-riom,3.1518852710723877,45.88891786700034,Lyon,01/01/2019,qCSL Riom,qCSL,Riom,20,20,10,50.0
+maison-darret-de-saint-etienne-la-talaudiere,4.4158172607421875,45.4733735463996,Lyon,01/01/2019,qCSL Saint Etienne-la-Talaudière,qCSL,Saint Etienne-la-Talaudière,40,40,17,42.5
+maison-darret-de-villefranche-sur-saone,4.725408554077148,45.997617503399375,Lyon,01/01/2019,qCSL Villefranche-sur-Saône,qCSL,Villefranche-sur-Saône,39,39,10,25.6
+etablissement-pour-mineurs-du-rhone-meyzieu,4.987492561340332,45.76153533782942,Lyon,01/01/2019,EPM Rhône,EPM,Rhône,60,60,44,73.3
+maison-darret-dajaccio,8.736790199999973,41.924763,Marseille,01/01/2019,MA Ajaccio,MA,Ajaccio,53,53,67,126.4
+maison-darret-de-digne,6.235317885875702,44.09208419907208,Marseille,01/01/2019,MA Digne,MA,Digne,35,35,41,117.1
+,6.422133,43.502200,Marseille,01/01/2019,MA Draguignan,MA,Draguignan,504,504,546,108.3
+maison-darret-de-gap,6.077633500099182,44.56001577949504,Marseille,01/01/2019,MA Gap,MA,Gap,37,37,37,100.0
+maison-darret-de-grasse,6.904349327087402,43.674824840428265,Marseille,01/01/2019,MA Grasse,MA,Grasse,574,574,694,120.9
+maison-darret-de-nice,7.280459403991699,43.712269956581586,Marseille,01/01/2019,MA Nice,MA,Nice,363,363,523,144.1
+maison-darret-daix-luynes,5.39827823638916,43.48154260079933,Marseille,01/01/2019,qMA Aix-Luynes,qMA,Aix-Luynes,1111,1111,1358,122.2
+centre-penitentiaire-davignon-le-pontet,4.860595099999955,43.9662113,Marseille,01/01/2019,qMA Avignon le Pontet,qMA,Avignon le Pontet,394,394,543,137.8
+centre-penitentiaire-de-borgo,9.445667266845703,42.57797896286552,Marseille,01/01/2019,qMA Borgo,qMA,Borgo,183,183,215,117.5
+centre-penitentiaire-de-marseille-baumettes,5.414543151855469,43.232665870384956,Marseille,01/01/2019,qMA Marseille-Les-Baumettes,qMA,Marseille-Les-Baumettes,614,614,868,141.4
+centre-penitentiaire-de-toulon-la-farlede,6.057114601135254,43.159159344480344,Marseille,01/01/2019,qMA Toulon-la-Farlède,qMA,Toulon-la-Farlède,394,394,528,134.0
+centre-de-detention-de-casabianda,42.093826,9.502567999999997,Marseille,01/01/2019,CD Casabianda,CD,Casabianda,194,194,110,56.7
+centre-de-detention-de-salon-de-provence,5.102702799999975,43.59964780000001,Marseille,01/01/2019,CD Salon-de-Provence,CD,Salon-de-Provence,650,650,625,96.2
+centre-de-detention-de-tarascon,4.654877185821533,43.79403719214484,Marseille,01/01/2019,CD Tarascon,CD,Tarascon,651,648,626,96.6
+centre-penitentiaire-davignon-le-pontet,4.860595099999955,43.9662113,Marseille,01/01/2019,qCD Avignon le Pontet,qCD,Avignon le Pontet,180,180,177,98.3
+centre-penitentiaire-de-borgo,9.445667266845703,42.57797896286552,Marseille,01/01/2019,qCD Borgo,qCD,Borgo,48,48,38,79.2
+centre-penitentiaire-de-marseille-baumettes,5.414543151855469,43.232665870384956,Marseille,01/01/2019,qCD Marseille-Les-Baumettes,qCD,Marseille-Les-Baumettes,60,60,55,91.7
+centre-penitentiaire-de-toulon-la-farlede,6.057114601135254,43.159159344480344,Marseille,01/01/2019,qCD Toulon-la-Farlède,qCD,Toulon-la-Farlède,191,191,187,97.9
+maison-centrale-darles,4.634556770324707,43.70866794732345,Marseille,01/01/2019,MC Arles,MC,Arles,160,157,134,85.4
+maison-darret-daix-luynes,5.39827823638916,43.48154260079933,Marseille,01/01/2019,qCPA Aix-Luynes,qCPA,Aix-Luynes,82,82,51,62.2
+centre-penitentiaire-de-marseille-baumettes,5.414543151855469,43.232665870384956,Marseille,01/01/2019,qCPA Marseille-Les-Baumettes,qCPA,Marseille-Les-Baumettes,24,24,28,116.7
+centre-penitentiaire-davignon-le-pontet,4.860595099999955,43.9662113,Marseille,01/01/2019,qCSL Avignon le Pontet,qCSL,Avignon le Pontet,51,51,39,76.5
+centre-penitentiaire-de-toulon-la-farlede,6.057114601135254,43.159159344480344,Marseille,01/01/2019,qCSL Toulon-la-Farlède,qCSL,Toulon-la-Farlède,41,41,28,68.3
+etablissement-pour-mineurs-de-marseille,5.487898886203766,43.2892578877971,Marseille,01/01/2019,EPM Marseille,EPM,Marseille,59,59,42,71.2
+maison-darret-de-fleury-merogis,2.366724299999987,48.6424475,Paris,01/01/2019,MA Fleury-Mérogis,MA,Fleury-Mérogis,2956,2956,4232,143.2
+maison-darret-de-nanterre,2.2072981999999683,48.90519630000001,Paris,01/01/2019,MA Nanterre,MA,Nanterre,592,592,1009,170.4
+maison-darret-dosny-pontoise,2.0893392000000404,49.0719749,Paris,01/01/2019,MA Osny-Pontoise,MA,Osny-Pontoise,579,579,895,154.6
+maison-darret-de-versailles,2.134773399999972,48.800308,Paris,01/01/2019,MA Versailles,MA,Versailles,137,137,158,115.3
+maison-darret-de-villepinte,2.5516979999999876,48.9673619,Paris,01/01/2019,MA Villepinte,MA,Villepinte,583,583,1109,190.2
+maison-darret-de-bois-darcy,2.0309466999999586,48.8064095,Paris,01/01/2019,qMA Bois d'Arcy,qMA,Bois d'Arcy,587,587,944,160.8
+centre-penitentiaire-de-fresnes,2.319595800000002,48.7655244,Paris,01/01/2019,qMA Fresnes (**),qMA,Fresnes (**),1320,1320,2600,197.0
+centre-penitentiaire-de-meaux-chauconin,2.8642190000000483,48.957386,Paris,01/01/2019,qMA Meaux-Chauconin,qMA,Meaux-Chauconin,385,385,769,199.7
+centre-de-detention-de-melun,2.6601462999999512,48.5363543,Paris,01/01/2019,CD Melun,CD,Melun,310,308,286,92.9
+centre-penitentiaire-de-meaux-chauconin,2.8642190000000483,48.957386,Paris,01/01/2019,qCD Meaux-Chauconin,qCD,Meaux-Chauconin,192,192,176,91.7
+centre-penitentiaire-du-sud-francilien-reau,2.62284360000001,48.6105721,Paris,01/01/2019,qCD Sud Francilien,qCD,Sud Francilien,535,535,494,92.3
+maison-centrale-de-poissy,2.0383624999999483,48.9284982,Paris,01/01/2019,MC Poissy,MC,Poissy,279,240,200,83.3
+centre-penitentiaire-du-sud-francilien-reau,2.62284360000001,48.6105721,Paris,01/01/2019,qMC Sud Francilien,qMC,Sud Francilien,28,28,21,75.0
+centre-pour-peines-amenagees-de-villejuif,2.3639149000000543,48.80361569999999,Paris,01/01/2019,qCPA Fresnes (Villejuif),qCPA,Fresnes (Villejuif),116,116,118,101.7
+centre-penitentiaire-de-meaux-chauconin,2.8642190000000483,48.957386,Paris,01/01/2019,qCPA Meaux-Chauconin,qCPA,Meaux-Chauconin,62,62,46,74.2
+centre-de-semi-liberte-de-corbeil,2.4783572999999706,48.6112526,Paris,01/01/2019,CSL Corbeil,CSL,Corbeil,80,80,88,110.0
+centre-de-semi-liberte-de-gagny,2.5332762000000457,48.88133699999999,Paris,01/01/2019,CSL Gagny,CSL,Gagny,48,48,88,183.3
+centre-de-semi-liberte-de-melun,2.6587718000000677,48.5428478,Paris,01/01/2019,CSL Melun,CSL,Melun,43,43,38,88.4
+maison-darret-de-paris-la-sante,2.3399460000000545,48.8339992,Paris,01/01/2019,CSL Paris-La-Santé,CSL,Paris-La-Santé,100,100,117,117.0
+maison-darret-de-bois-darcy,2.0309466999999586,48.8064095,Paris,01/01/2019,qCSL Bois d'Arcy,qCSL,Bois d'Arcy,61,61,60,98.4
+centre-pour-peines-amenagees-de-villejuif,2.3639149000000543,48.80361569999999,Paris,01/01/2019,qCSL Fresnes (Villejuif),qCSL,Fresnes (Villejuif),27,27,20,74.1
+etablissement-pour-mineurs-de-porcheville,1.7682302000000618,48.98772890000001,Paris,01/01/2019,EPM Porcheville,EPM,Porcheville,60,60,52,86.7
+centre-penitentiaire-de-fresnes,2.319595800000002,48.7655244,Paris,01/01/2019,qCNE Fresnes (**),qCNE,Fresnes (**),56,56,36,64.3
+centre-penitentiaire-du-sud-francilien-reau,2.62284360000001,48.6105721,Paris,01/01/2019,qCNE Sud Francilien,qCNE,Sud Francilien,233,233,190,81.5
+maison-darret-dangers,-0.5416725999999699,47.4744967,Rennes,01/01/2019,MA Angers,MA,Angers,266,266,382,143.6
+maison-darret-de-brest,-4.474903700000027,48.4206036,Rennes,01/01/2019,MA Brest,MA,Brest,254,254,365,143.7
+maison-darret-de-caen,-0.3917768994750759,49.182679210614836,Rennes,01/01/2019,MA Caen,MA,Caen,269,269,384,142.8
+maison-darret-de-cherbourg,-1.623711700000058,49.63741049999999,Rennes,01/01/2019,MA Cherbourg,MA,Cherbourg,46,46,46,100.0
+maison-darret-de-coutances,-1.4412864999999329,49.050796,Rennes,01/01/2019,MA Coutances,MA,Coutances,48,48,55,114.6
+maison-darret-devreux,1.1669131441802847,49.01579345139367,Rennes,01/01/2019,MA Evreux,MA,Evreux,162,162,261,161.1
+maison-darret-de-fontenay-le-comte,-0.8128808999999819,46.4681355,Rennes,01/01/2019,MA Fontenay-le-Comte,MA,Fontenay-le-Comte,39,39,71,182.1
+maison-darret-de-la-roche-sur-yon,-1.4260469447051491,46.67563212329047,Rennes,01/01/2019,MA La Roche-sur-Yon,MA,La Roche-sur-Yon,39,39,78,200.0
+maison-darret-de-laval,-0.7832628999999542,48.0661591,Rennes,01/01/2019,MA Laval,MA,Laval,71,56,105,187.5
+maison-darret-du-mans-les-croisettes,0.21819640000001073,48.0438122,Rennes,01/01/2019,MA Le Mans-Croisettes,MA,Le Mans-Croisettes,399,399,526,131.8
+maison-darret-de-rouen,1.0770020915405212,49.43326687224401,Rennes,01/01/2019,MA Rouen,MA,Rouen,649,649,569,87.7
+maison-darret-de-saint-malo,-1.9932208072707454,48.64771903925414,Rennes,01/01/2019,MA Saint Malo,MA,Saint Malo,92,92,108,117.4
+maison-darret-de-saint-brieuc,-2.7504669571471823,48.50829131674716,Rennes,01/01/2019,MA Saint-Brieuc,MA,Saint-Brieuc,85,85,126,148.2
+maison-darret-de-vannes,-2.762949184655781,47.660282532250335,Rennes,01/01/2019,MA Vannes,MA,Vannes,52,52,79,151.9
+centre-penitentiaire-de-caen,-0.40157375396734096,49.18646651581881,Rennes,01/01/2019,qMA Caen,qMA,Caen,6,6,5,83.3
+centre-penitentiaire-du-havre,0.28134799999997995,49.5172284,Rennes,01/01/2019,qMA Le Havre,qMA,Le Havre,298,297,291,98.0
+centre-penitentiaire-de-lorient-ploemeur,-3.415922584655732,47.726504521297386,Rennes,01/01/2019,qMA Lorient-Ploemeur,qMA,Lorient-Ploemeur,187,187,254,135.8
+centre-penitentiaire-de-nantes,-1.570462197345023,47.26421763888542,Rennes,01/01/2019,qMA Nantes,qMA,Nantes,570,570,668,117.2
+centre-penitentiaire-pour-femmes-de-rennes,-1.6745428000000402,48.1018878,Rennes,01/01/2019,qMA Rennes,qMA,Rennes,57,57,61,107.0
+centre-penitentiaire-de-rennes-vezin,-1.7374056407227272,48.10895059936014,Rennes,01/01/2019,qMA Rennes-Vezin,qMA,Rennes-Vezin,477,477,674,141.3
+centre-de-detention-dargentan,-0.014146999999979926,48.729581,Rennes,01/01/2019,CD Argentan,CD,Argentan,638,638,546,85.6
+centre-de-detention-de-val-de-reuil,1.2224554639709595,49.284421713304944,Rennes,01/01/2019,CD Val-de-Reuil,CD,Val-de-Reuil,819,780,727,93.2
+centre-penitentiaire-de-caen,-0.40157375396734096,49.18646651581881,Rennes,01/01/2019,qCD Caen,qCD,Caen,434,425,364,85.6
+centre-penitentiaire-du-havre,0.28134799999997995,49.5172284,Rennes,01/01/2019,qCD Le Havre,qCD,Le Havre,392,391,338,86.4
+centre-penitentiaire-de-lorient-ploemeur,-3.415922584655732,47.726504521297386,Rennes,01/01/2019,qCD Lorient-Ploemeur,qCD,Lorient-Ploemeur,40,40,39,97.5
+centre-penitentiaire-de-nantes,-1.570462197345023,47.26421763888542,Rennes,01/01/2019,qCD Nantes,qCD,Nantes,510,510,460,90.2
+centre-penitentiaire-pour-femmes-de-rennes,-1.6745428000000402,48.1018878,Rennes,01/01/2019,qCD Rennes,qCD,Rennes,231,231,168,72.7
+centre-penitentiaire-de-rennes-vezin,-1.7374056407227272,48.10895059936014,Rennes,01/01/2019,qCD Rennes-Vezin,qCD,Rennes-Vezin,209,209,201,96.2
+centre-penitentiaire-de-conde-sur-sarthe,0.01772049999999581,48.437325,Rennes,01/01/2019,qMC Alençon-Condé-sur-Sarthe,qMC,Alençon-Condé-sur-Sarthe,195,195,109,55.9
+centre-penitentiaire-de-conde-sur-sarthe,0.01772049999999581,48.437325,Rennes,01/01/2019,qCPA Alençon-Condé-sur-Sarthe,qCPA,Alençon-Condé-sur-Sarthe,45,45,9,20.0
+centre-penitentiaire-de-caen,-0.40157375396734096,49.18646651581881,Rennes,01/01/2019,qCSL Caen,qCSL,Caen,50,50,16,32.0
+centre-penitentiaire-de-nantes,-1.570462197345023,47.26421763888542,Rennes,01/01/2019,qCSL Nantes,qCSL,Nantes,36,36,17,47.2
+centre-penitentiaire-de-rennes-vezin,-1.7374056407227272,48.10895059936014,Rennes,01/01/2019,qCSL Rennes-Vezin,qCSL,Rennes-Vezin,26,26,22,84.6
+etablissement-penitentiaire-pour-mineurs-dorvault,-1.5916369407226512,47.26774705733297,Rennes,01/01/2019,EPM Orvault,EPM,Orvault,59,55,36,65.5
+maison-darret-de-bar-le-duc,5.159042099999965,48.7685585,Strasbourg,01/01/2019,MA Bar-le-Duc,MA,Bar-le-Duc,80,80,85,106.3
+maison-darret-de-chalons-en-champagne,4.367612600326538,48.962620579691546,Strasbourg,01/01/2019,MA Châlons-en-Champagne,MA,Châlons-en-Champagne,313,313,318,101.6
+maison-darret-de-charleville-mezieres,4.722545295953751,49.7721186456848,Strasbourg,01/01/2019,MA Charleville-Mézières,MA,Charleville-Mézières,59,59,66,111.9
+maison-darret-de-chaumont,5.13286828994751,48.1063529906228,Strasbourg,01/01/2019,MA Chaumont,MA,Chaumont,78,78,87,111.5
+maison-darret-de-colmar,7.357476353645325,48.07602344382085,Strasbourg,01/01/2019,MA Colmar,MA,Colmar,120,120,123,102.5
+maison-darret-depinal,6.4663660526275635,48.18720513997957,Strasbourg,01/01/2019,MA Epinal,MA,Epinal,294,294,222,75.5
+maison-darret-de-mulhouse,7.3444140999999945,47.75342190000001,Strasbourg,01/01/2019,MA Mulhouse,MA,Mulhouse,277,277,461,166.4
+maison-darret-de-reims,4.028297209786956,49.270579200433126,Strasbourg,01/01/2019,MA Reims,MA,Reims,154,154,163,105.8
+maison-darret-de-sarreguemines,7.057868242263794,49.106255821913805,Strasbourg,01/01/2019,MA Sarreguemines,MA,Sarreguemines,71,71,107,150.7
+maison-darret-de-strasbourg,7.73087739944458,48.56588742400468,Strasbourg,01/01/2019,MA Strasbourg,MA,Strasbourg,445,445,641,144.0
+maison-darret-de-troyes,4.07742440700531,48.30025344309163,Strasbourg,01/01/2019,MA Troyes,MA,Troyes,114,114,114,100.0
+centre-penitentiaire-de-metz,6.2091851234436035,49.099147306761964,Strasbourg,01/01/2019,qMA Metz-Queuleu,qMA,Metz-Queuleu,403,403,593,147.1
+centre-penitentiaire-de-nancy-maxeville,6.15095980000001,48.7072578,Strasbourg,01/01/2019,qMA Nancy Maxéville,qMA,Nancy Maxéville,453,453,638,140.8
+centre-de-detention-decrouves,5.850498676300049,48.681547106197506,Strasbourg,01/01/2019,CD Ecrouves,CD,Ecrouves,269,269,245,91.1
+centre-de-detention-de-montmedy,5.368119478225708,49.52371449147878,Strasbourg,01/01/2019,CD Montmédy,CD,Montmédy,343,280,267,95.4
+centre-de-detention-doermingen,7.136492200000021,49.0006247,Strasbourg,01/01/2019,CD Oermingen,CD,Oermingen,268,263,246,93.5
+centre-de-detention-de-saint-mihiel,5.530681248726637,48.88202779628498,Strasbourg,01/01/2019,CD Saint-Mihiel,CD,Saint-Mihiel,400,400,358,89.5
+centre-de-detention-de-toul,5.882552799999985,48.6595403,Strasbourg,01/01/2019,CD Toul,CD,Toul,427,427,397,93.0
+centre-de-detention-de-villenauxe-la-grande,3.576420999999982,48.6029481,Strasbourg,01/01/2019,CD Villenauxe-la-Grande,CD,Villenauxe-la-Grande,606,406,359,88.4
+centre-penitentiaire-de-nancy-maxeville,6.15095980000001,48.7072578,Strasbourg,01/01/2019,qCD Nancy Maxéville,qCD,Nancy Maxéville,240,240,218,90.8
+maison-centrale-de-clairvaux,4.790868953997801,48.14599257800888,Strasbourg,01/01/2019,MC Clairvaux,MC,Clairvaux,91,80,72,90.0
+maison-centrale-densisheim,7.351324685180657,47.86507254267584,Strasbourg,01/01/2019,MC Ensisheim,MC,Ensisheim,215,200,179,89.5
+centre-penitentiaire-de-metz,6.2091851234436035,49.099147306761964,Strasbourg,01/01/2019,qCPA Metz-Queuleu,qCPA,Metz-Queuleu,77,77,32,41.6
+centre-de-semi-liberte-de-briey,5.939333438873291,49.251861093792364,Strasbourg,01/01/2019,CSL Briey,CSL,Briey,25,25,17,68.0
+centre-de-semi-liberte-de-maxeville,6.155245900154114,48.71329307751823,Strasbourg,01/01/2019,CSL Maxéville,CSL,Maxéville,52,52,34,65.4
+centre-de-semi-liberte-de-souffelweyersheim,7.753861248493195,48.628971441580326,Strasbourg,01/01/2019,CSL Souffelweyersheim,CSL,Souffelweyersheim,53,53,38,71.7
+maison-darret-dalbi,2.1241395957702025,43.91738073021216,Toulouse,01/01/2019,MA Albi,MA,Albi,105,105,180,171.4
+,2.362650,43.211094,Toulouse,01/01/2019,MA Carcassonne,MA,Carcassonne,64,64,113,176.6
+maison-darret-de-foix,1.6095507144927979,42.96045314295177,Toulouse,01/01/2019,MA Foix,MA,Foix,67,65,112,172.3
+maison-darret-de-mende,3.492911383509636,44.516439952774434,Toulouse,01/01/2019,MA Mende,MA,Mende,49,49,56,114.3
+maison-darret-de-montauban,1.3627161608520737,44.008207665341324,Toulouse,01/01/2019,MA Montauban,MA,Montauban,144,144,219,152.1
+maison-darret-de-nimes,4.395357370376587,43.842234498590116,Toulouse,01/01/2019,MA Nîmes,MA,Nîmes,200,200,410,205.0
+maison-darret-de-rodez,2.535824775695801,44.375342940874425,Toulouse,01/01/2019,MA Rodez,MA,Rodez,99,99,141,142.4
+maison-darret-de-tarbes,0.07938647979699454,43.23515706674526,Toulouse,01/01/2019,MA Tarbes,MA,Tarbes,72,72,116,161.1
+centre-penitentiaire-de-beziers,3.180069923400879,43.340036430915404,Toulouse,01/01/2019,qMA Béziers,qMA,Béziers,389,389,621,159.6
+centre-penitentiaire-de-perpignan,2.8692984580993652,42.68015601116792,Toulouse,01/01/2019,qMA Perpignan,qMA,Perpignan,196,196,366,186.7
+maison-darret-de-toulouse-seysses,1.3248878717422485,43.489147548721355,Toulouse,01/01/2019,qMA Toulouse-Seysses,qMA,Toulouse-Seysses,655,655,1161,177.3
+maison-darret-de-villeneuve-les-maguelone,3.8286816306538185,43.54651810610168,Toulouse,01/01/2019,qMA Villeneuve-lès-Maguelone,qMA,Villeneuve-lès-Maguelone,599,599,825,137.7
+centre-de-detention-de-muret,1.3217731565237045,43.48287727404158,Toulouse,01/01/2019,CD Muret,CD,Muret,660,623,586,94.1
+centre-de-detention-de-saint-sulpice-la-pointe,1.6894406801872037,43.77551394965833,Toulouse,01/01/2019,CD Saint-Sulpice-la-Pointe,CD,Saint-Sulpice-la-Pointe,102,102,92,90.2
+centre-penitentiaire-de-beziers,3.180069923400879,43.340036430915404,Toulouse,01/01/2019,qCD Béziers,qCD,Béziers,420,420,399,95.0
+centre-penitentiaire-de-lannemezan,0.3751230239868164,43.10986560852572,Toulouse,01/01/2019,qCD Lannemezan,qCD,Lannemezan,20,10,4,40.0
+centre-penitentiaire-de-perpignan,2.8692984580993652,42.68015601116792,Toulouse,01/01/2019,qCD Perpignan,qCD,Perpignan,333,333,313,94.0
+centre-penitentiaire-de-lannemezan,0.3751230239868164,43.10986560852572,Toulouse,01/01/2019,qMC Lannemezan,qMC,Lannemezan,212,162,123,75.9
+maison-darret-de-toulouse-seysses,1.3248878717422485,43.489147548721355,Toulouse,01/01/2019,qCSL Toulouse-Seysses,qCSL,Toulouse-Seysses,101,52,36,69.2
+maison-darret-de-villeneuve-les-maguelone,3.8286816306538185,43.54651810610168,Toulouse,01/01/2019,qCSL Villeneuve-lès-Maguelone,qCSL,Villeneuve-lès-Maguelone,24,24,18,75.0
+etablissement-penitentiaire-pour-mineurs-de-lavaur,1.804469700000027,43.70632179999999,Toulouse,01/01/2019,EPM Lavaur,EPM,Lavaur,59,59,45,76.3
+maison-darret-de-basse-terre,-61.72700639999999,15.9938194,Outre-Mer,01/01/2019,MA Basse-Terre,MA,Basse-Terre,129,129,216,167.4
+centre-penitentiaire-de-baie-mahault,-61.57237180000004,16.2642787,Outre-Mer,01/01/2019,qMA Baie-Mahault,qMA,Baie-Mahault,265,265,502,189.4
+centre-penitentiaire-de-ducos,-60.986159799999996,14.5775789,Outre-Mer,01/01/2019,qMA Ducos,qMA,Ducos,371,371,497,134.0
+centre-penitentiaire-de-remire-montjoly,-52.29844093322754,4.876580275125387,Outre-Mer,01/01/2019,qMA Guyane (Remiré Montjoly),qMA,Guyane (Remiré Montjoly),293,293,478,163.1
+maison-darret-saint-pierre-de-la-reunion,55.46758639999996,-21.3373291,Outre-Mer,01/01/2019,MA Saint-Pierre,MA,Saint-Pierre,115,115,144,125.2
+centre-penitentiaire-saint-denis-reunion,55.50249310000004,-20.9185871,Outre-Mer,01/01/2019,qMA Saint-Denis,qMA,Saint-Denis,558,558,510,91.4
+centre-penitentiaire-de-saint-pierre-et-miquelon,-56.17127719999996,46.7834549,Outre-Mer,01/01/2019,qMA Saint-Pierre-et-Miquelon,qMA,Saint-Pierre-et-Miquelon,7,7,-,
+,45.228107,-12.751725,Outre-Mer,01/01/2019,qMA Majicavo,qMA,Majicavo,164,164,199,121.3
+maison-darret-de-mata-utu,-176.17589120000002,-13.282951,Outre-Mer,01/01/2019,MA Mata Utu,MA,Mata Utu,3,3,-,
+centre-penitentiaire-de-faa-nuutania,-149.5900054,-17.556489,Outre-Mer,01/01/2019,qMA Faa'a Nuutania,qMA,Faa'a Nuutania,157,157,226,143.9
+centre-penitentiaire-de-nouvelle-caledonie,166.42437659999996,-22.2717412,Outre-Mer,01/01/2019,qMA Nouméa,qMA,Nouméa,184,184,235,127.7
+centre-penitentiaire-de-baie-mahault,-61.57237180000004,16.2642787,Outre-Mer,01/01/2019,qCD Baie-Mahault,qCD,Baie-Mahault,238,238,228,95.8
+centre-penitentiaire-de-ducos,-60.986159799999996,14.5775789,Outre-Mer,01/01/2019,qCD Ducos,qCD,Ducos,367,367,316,86.1
+centre-penitentiaire-de-remire-montjoly,-52.29844093322754,4.876580275125387,Outre-Mer,01/01/2019,qCD Guyane (Remiré Montjoly),qCD,Guyane (Remiré Montjoly),320,320,306,95.6
+centre-de-detention-le-port,55.31387686729431,-20.951881357599024,Outre-Mer,01/01/2019,CD Le Port (Plaine les Galets),CD,Le Port (Plaine les Galets),507,507,442,87.2
+centre-penitentiaire-saint-denis-reunion,55.50249310000004,-20.9185871,Outre-Mer,01/01/2019,qCD Saint-Denis,qCD,Saint-Denis,17,17,18,105.9
+centre-penitentiaire-de-saint-pierre-et-miquelon,-56.17127719999996,46.7834549,Outre-Mer,01/01/2019,qCD Saint-Pierre-et-Miquelon,qCD,Saint-Pierre-et-Miquelon,4,4,1,25.0
+,45.228107,-12.751725,Outre-Mer,01/01/2019,qCD Majicavo,qCD,Majicavo,114,114,117,102.6
+,-149.338904,-17.736595,Outre-Mer,01/01/2019,CD Tatutu de Papeari,CD,Tatutu de Papeari,410,410,326,79.5
+centre-penitentiaire-de-faa-nuutania,-149.5900054,-17.556489,Outre-Mer,01/01/2019,qCD Faa'a Nuutania,qCD,Faa'a Nuutania,7,7,13,185.7
+centre-de-detention-de-taiohae,-139.08171240000001,-9.781216200000001,Outre-Mer,01/01/2019,qCD Taiohae,qCD,Taiohae,5,5,1,20.0
+centre-de-detention-de-uturoa,-151.4552213,-16.8164132,Outre-Mer,01/01/2019,qCD Uturoa-Raiatea,qCD,Uturoa-Raiatea,20,20,7,35.0
+centre-penitentiaire-de-nouvelle-caledonie,166.42437659999996,-22.2717412,Outre-Mer,01/01/2019,qCD Nouméa,qCD,Nouméa,218,218,301,138.1
 maison-darret-dagen,0.6172835826873779,44.19890897935539,Bordeaux,01/07/2018,MA Agen,MA,Agen,146,145,185,127.5
 maison-darret-dangouleme,0.16695544123649597,45.65038305920979,Bordeaux,01/07/2018,MA Angoulême,MA,Angoulême,236,236,207,87.7
 maison-darret-de-bayonne,-1.463276445865631,43.49174955928618,Bordeaux,01/07/2018,MA Bayonne,MA,Bayonne,75,75,129,172.0
