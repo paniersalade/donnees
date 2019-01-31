@@ -12,6 +12,7 @@ Année,Arme,Service,Nombre d'utilisations,Évolution n-1,Précisions,Lien
 2011,Arme à feu (situation opé.),Police nationale,201,,,http://www.senat.fr/rap/l12-453/l12-4531.html
 2012,Arme à feu (situation opé.),Police nationale,193,,Neuf premiers mois de 2012,http://www.senat.fr/rap/l12-453/l12-4531.html
 2013,Arme à feu,Police nationale,,"0,88",,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
+2014,Arme à feu,Police nationale,228,,,https://abonnes.lemonde.fr/police-justice/article/2015/05/21/la-police-des-polices-favorable-au-taser-pas-au-flash-ball_4638108_1653578.html?
 2014,Arme à feu (situation opé.),Police nationale,203,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2015,Arme à feu (situation opé.),Police nationale,241,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2015,Arme à feu,Police nationale,287,,Calculé à partir des infos de 2016,http://www.leparisien.fr/faits-divers/en-2016-les-signalements-d-abus-policiers-ont-sensiblement-augmente-28-09-2017-7291977.php
@@ -21,21 +22,21 @@ Année,Arme,Service,Nombre d'utilisations,Évolution n-1,Précisions,Lien
 2014,Arme à feu (munitions),Police nationale,579,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2015,Arme à feu (munitions),Police nationale,751,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2016,Arme à feu (munitions),Police nationale,654,,Du 1er janvier au 1er novembre 2016,http://www.senat.fr/rap/l16-309/l16-3091.pdf
-2013,Flash-ball ,Police nationale,654,"1,11",Calculé à partir des infos de 2012,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
-2014,Flash-ball ,Police nationale,599,,Calculé à partir des infos de 2015,https://www.liberation.fr/france/2016/06/06/bilan-2015-de-l-igpn-l-usage-du-taser-en-hausse-celui-du-flash-ball-en-baisse_1457698
-2015,Flash-ball ,Police nationale,509,"0,85",,https://www.liberation.fr/france/2016/06/06/bilan-2015-de-l-igpn-l-usage-du-taser-en-hausse-celui-du-flash-ball-en-baisse_1457698
+2010,Flash-ball (situation opé.),Gendarmerie nationale,43,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2010,Flash-ball (situation opé.),Police nationale,785,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2011,Flash-ball (situation opé.),Gendarmerie nationale,25,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2010,Flash-ball (munitions),Gendarmerie nationale,79,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2011,Flash-ball (munitions),Gendarmerie nationale,56,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2012,Flash-ball (munitions),Gendarmerie nationale,38,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2010,Flash-ball (munitions),Police nationale,1744,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2011,Flash-ball (munitions),Police nationale,1295,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2012,Flash-ball (munitions),Police nationale,1059,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2010,Flash-ball (situation opé.),Gendarmerie nationale,43,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2011,Flash-ball (situation opé.),Gendarmerie nationale,25,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2012,Flash-ball (situation opé.),Gendarmerie nationale,19,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2010,Flash-ball (situation opé.),Police nationale,785,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2011,Flash-ball (situation opé.),Police nationale,649,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2012,Flash-ball (situation opé.),Gendarmerie nationale,19,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2012,Flash-ball (situation opé.),Police nationale,589,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2013,Flash-ball ,Police nationale,662,"1,11",,http://www.lefigaro.fr/actualite-france/2015/05/21/01016-20150521ARTFIG00273-la-police-des-polices-preconise-l-abandondu-flash-ball.php
+2014,Flash-ball ,Police nationale,556,,,http://www.lefigaro.fr/actualite-france/2015/05/21/01016-20150521ARTFIG00273-la-police-des-polices-preconise-l-abandondu-flash-ball.php
+2015,Flash-ball ,Police nationale,509,"0,85",,https://www.liberation.fr/france/2016/06/06/bilan-2015-de-l-igpn-l-usage-du-taser-en-hausse-celui-du-flash-ball-en-baisse_1457698
 2010,GLI F4,Gendarmerie nationale,20,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
 2011,GLI F4,Gendarmerie nationale,739,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
 2012,GLI F4,Gendarmerie nationale,124,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
@@ -72,23 +73,23 @@ Année,Arme,Service,Nombre d'utilisations,Évolution n-1,Précisions,Lien
 2012,Grenade lacrymogène,Police nationale (CRS),606,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
 2013,Grenade lacrymogène,Police nationale (CRS),936,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
 2014,Grenade lacrymogène,Police nationale (CRS),3092,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
-2013,LBD 40,Police nationale,660,"1,06",Calculé à partir des infos de 2012,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
-2014,LBD 40,Police nationale,893,,Calculé à partir des infos de 2015,https://www.liberation.fr/france/2016/06/06/bilan-2015-de-l-igpn-l-usage-du-taser-en-hausse-celui-du-flash-ball-en-baisse_1457698
-2015,LBD 40,Police nationale,1027,"1,15",Calculé à partir des infos de 2016,http://www.leparisien.fr/faits-divers/en-2016-les-signalements-d-abus-policiers-ont-sensiblement-augmente-28-09-2017-7291977.php
-2016,LBD 40,Police nationale,1705,"1,66",,http://www.leparisien.fr/faits-divers/en-2016-les-signalements-d-abus-policiers-ont-sensiblement-augmente-28-09-2017-7291977.php
-2017,LBD 40,Police nationale,2495,"1,46",,https://www.la-croix.com/Journal/chiffres-confirment-durcissement-rapports-entre-police-population-2018-06-28-1100950743
+2010,LBD 40 (situation opé.),Gendarmerie nationale,47,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2010,LBD 40 (situation opé.),Police nationale,171,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2011,LBD 40 (situation opé.),Gendarmerie nationale,34,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2011,LBD 40 (situation opé.),Police nationale,345,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2012,LBD 40 (situation opé.),Gendarmerie nationale,21,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2010,LBD 40 (munitions),Gendarmerie nationale,84,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2011,LBD 40 (munitions),Gendarmerie nationale,66,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2012,LBD 40 (munitions),Gendarmerie nationale,52,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2010,LBD 40 (munitions),Police nationale,480,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2011,LBD 40 (munitions),Police nationale,994,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2012,LBD 40 (munitions),Police nationale,1514,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2010,LBD 40 (situation opé.),Gendarmerie nationale,47,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2011,LBD 40 (situation opé.),Gendarmerie nationale,34,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2012,LBD 40 (situation opé.),Gendarmerie nationale,21,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2010,LBD 40 (situation opé.),Police nationale,171,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
-2011,LBD 40 (situation opé.),Police nationale,345,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2012,LBD 40 (situation opé.),Police nationale,623,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
+2013,LBD 40,Police nationale,660,"1,06",Calculé à partir des infos de 2012,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
+2014,LBD 40,Police nationale,891,,Calculé à partir des infos de 2015,https://www.liberation.fr/france/2016/06/06/bilan-2015-de-l-igpn-l-usage-du-taser-en-hausse-celui-du-flash-ball-en-baisse_1457698
+2015,LBD 40,Police nationale,1025,"1,15",,https://www.lemonde.fr/police-justice/article/2016/06/07/mouvement-social-la-police-des-polices-saisie-de-48-enquetes-judiciaires_4940192_1653578.html
+2016,LBD 40,Police nationale,1705,"1,66",,http://www.leparisien.fr/faits-divers/en-2016-les-signalements-d-abus-policiers-ont-sensiblement-augmente-28-09-2017-7291977.php
+2017,LBD 40,Police nationale,2495,"1,46",,https://www.la-croix.com/Journal/chiffres-confirment-durcissement-rapports-entre-police-population-2018-06-28-1100950743
 2013,LBD 40 et Flash-ball,Gendarmerie nationale,,"0,718",,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
 2010,OF F1,Gendarmerie nationale,7,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
 2011,OF F1,Gendarmerie nationale,251,,,https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/144000676.pdf
