@@ -1,8 +1,11 @@
 Année,Arme,Service,Nombre d'utilisations,Évolution n-1,Précisions,Lien
-2013,Arme à feu,Gendarmerie nationale,,"0,789",,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
 2010,Arme à feu (situation opé.),Gendarmerie nationale,75,,,http://www.senat.fr/rap/l12-453/l12-4531.html
 2011,Arme à feu (situation opé.),Gendarmerie nationale,73,,,http://www.senat.fr/rap/l12-453/l12-4531.html
 2012,Arme à feu (situation opé.),Gendarmerie nationale,53,,Neuf premiers mois de 2012,http://www.senat.fr/rap/l12-453/l12-4531.html
+2013,Arme à feu,Gendarmerie nationale,,"0,789",,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
+2013,Arme à feu (situation opé.),Gendarmerie nationale,71,,,Rapport Cazaux-Charles
+2014,Arme à feu (situation opé.),Gendarmerie nationale,67,,,Rapport Cazaux-Charles
+2015,Arme à feu (situation opé.),Gendarmerie nationale,69,,,Rapport Cazaux-Charles
 2014,Arme à feu (situation opé.),Gendarmerie nationale,67,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2015,Arme à feu (situation opé.),Gendarmerie nationale,69,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2016,Arme à feu (situation opé.),Gendarmerie nationale,62,,Du 1er janvier au 1er novembre 2016,http://www.senat.fr/rap/l16-309/l16-3091.pdf
@@ -11,17 +14,25 @@ Année,Arme,Service,Nombre d'utilisations,Évolution n-1,Précisions,Lien
 2010,Arme à feu (situation opé.),Police nationale,169,,,http://www.senat.fr/rap/l12-453/l12-4531.html
 2011,Arme à feu (situation opé.),Police nationale,201,,,http://www.senat.fr/rap/l12-453/l12-4531.html
 2012,Arme à feu (situation opé.),Police nationale,193,,Neuf premiers mois de 2012,http://www.senat.fr/rap/l12-453/l12-4531.html
+2012,Arme à feu (déclaration d'usage),Police nationale,227,,à partir du 11 janvier,Rapport Cazaux-Charles
+2013,Arme à feu (déclaration d'usage),Police nationale,196,,,Rapport Cazaux-Charles
+2014,Arme à feu (déclaration d'usage),Police nationale,203,,,Rapport Cazaux-Charles
+2015,Arme à feu (déclaration d'usage),Police nationale,241,,,Rapport Cazaux-Charles
+2012,Arme à feu (munitions),Police nationale,642,,à partir du 11 janvier,Rapport Cazaux-Charles
+2013,Arme à feu (munitions),Police nationale,489,,,Rapport Cazaux-Charles
+2014,Arme à feu (munitions),Police nationale,579,,,Rapport Cazaux-Charles
+2015,Arme à feu (munitions),Police nationale,751,,,Rapport Cazaux-Charles
 2013,Arme à feu,Police nationale,,"0,88",,http://questions.assemblee-nationale.fr/q14/14-65270QE.htm
 2014,Arme à feu,Police nationale,228,,,https://abonnes.lemonde.fr/police-justice/article/2015/05/21/la-police-des-polices-favorable-au-taser-pas-au-flash-ball_4638108_1653578.html?
 2014,Arme à feu (situation opé.),Police nationale,203,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
+2014,Arme à feu (munitions),Police nationale,579,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2015,Arme à feu (situation opé.),Police nationale,241,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2015,Arme à feu,Police nationale,287,,Calculé à partir des infos de 2016,http://www.leparisien.fr/faits-divers/en-2016-les-signalements-d-abus-policiers-ont-sensiblement-augmente-28-09-2017-7291977.php
+2015,Arme à feu (munitions),Police nationale,751,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2016,Arme à feu (situation opé.),Police nationale,199,,Du 1er janvier au 1er novembre 2016,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2016,Arme à feu,Police nationale,255,"0,89",,http://www.leparisien.fr/faits-divers/en-2016-les-signalements-d-abus-policiers-ont-sensiblement-augmente-28-09-2017-7291977.php
-2017,Arme à feu,Police nationale,394,"1,54",,https://www.la-croix.com/Journal/chiffres-confirment-durcissement-rapports-entre-police-population-2018-06-28-1100950743
-2014,Arme à feu (munitions),Police nationale,579,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
-2015,Arme à feu (munitions),Police nationale,751,,,http://www.senat.fr/rap/l16-309/l16-3091.pdf
 2016,Arme à feu (munitions),Police nationale,654,,Du 1er janvier au 1er novembre 2016,http://www.senat.fr/rap/l16-309/l16-3091.pdf
+2017,Arme à feu,Police nationale,394,"1,54",,https://www.la-croix.com/Journal/chiffres-confirment-durcissement-rapports-entre-police-population-2018-06-28-1100950743
 2010,Flash-ball (situation opé.),Gendarmerie nationale,43,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2010,Flash-ball (situation opé.),Police nationale,785,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
 2011,Flash-ball (situation opé.),Gendarmerie nationale,25,,,https://www.defenseurdesdroits.fr/sites/default/files/atoms/files/ddd_r_20130528_moyens_force_0.pdf
@@ -131,3 +142,11 @@ Année,Arme,Service,Nombre d'utilisations,Évolution n-1,Précisions,Lien
 2009,PIE (utilisation),Police nationale,907,,,https://www.senat.fr/questions/base/2011/qSEQ110217260.html
 2010,PIE (utilisation),Police nationale,815,,,https://www.senat.fr/questions/base/2011/qSEQ110217260.html
 2011,PIE (utilisation),Police nationale,823,,,https://www.senat.fr/questions/base/2011/qSEQ110217260.html
+2008,Arme à feu (usage),Douanes,5,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,8,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,4,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,7,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,5,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,7,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,8,,,Rapport Cazaux-Charles // Annexe DGDDI
+2008,Arme à feu (usage),Douanes,6,,,Rapport Cazaux-Charles // Annexe DGDDI
