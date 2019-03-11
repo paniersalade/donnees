@@ -1,6 +1,12 @@
 # Les données du *Panier à salade*
 
-Le *Panier à salade* est sélection hebdomadaire de liens de l'actualité police-justice paraissant le mardi. Retrouvez dans ce dépôt différents jeux de données relatifs à cette actualité.
+[Le *Panier à salade*](http://lepanierasalade.fr) est sélection hebdomadaire de liens de l'actualité police-justice paraissant le mardi. Retrouvez dans ce dépôt différents jeux de données relatifs à cette actualité et [abonnez-vous](http://lepanierasalade.fr) ! 
+
+## [Usage des armes](./usage-des-armes.csv)
+
+Compilation des différents chiffres au sujet de l'usage des armes par la police, la gendarmerie et la douane grâce à différentes sources, notamment des rapports sénatoriaux, le rapport d'Hélène Cazaux-Charles et des déclarations à la presse. 
+
+> [Usage des armes](./usage-des-armes.csv)
 
 ## [Population détenue](./population-detenue.csv) et [évolution de la densité](./densite-carcerale.csv)
 
