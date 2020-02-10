@@ -1,1 +1,4 @@
 Fichiers transmis par le ministère de l'intérieur relatif à l'armement des polices municipales, [plus précis que ceux publiés sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/police-municipale-effectifs-par-commune/#_). 
+
+* Armes détenues par les policiers municipaux au niveau national : [2014](https://github.com/paniersalade/donnees/blob/master/armes_pm/Statistiques%20PM%202014.xlsx), [2015](https://github.com/paniersalade/donnees/blob/master/armes_pm/Statistiques%20PM%202015.ods), [2016](https://github.com/paniersalade/donnees/blob/master/armes_pm/Statistiques%20PM%202016.ods), [2017](https://github.com/paniersalade/donnees/blob/master/armes_pm/Statistiques%20PM%202017.ods), [2018](https://github.com/paniersalade/donnees/blob/master/armes_pm/Statistiques%20PM%202018.ods)
+* Armes détenues par les policiers municipaux au niveau départemental : [2018](https://github.com/paniersalade/donnees/blob/master/armes_pm/Statistiques%20PM%202018%20-%20Onglet%201.ods)
