@@ -1,0 +1,1 @@
+Fichiers transmis par le ministère de l'intérieur relatif à l'armement des polices municipales, [plus précis que ceux publiés sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/police-municipale-effectifs-par-commune/#_). 
